@@ -1,7 +1,5 @@
 import '../css/style.css';
 
-console.log('Hello world');
-
 // XJlq9OFMcHAy8pAQK7xj
 // https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API
 // const BASE_URL = "https://the-one-api.dev/v2/";
